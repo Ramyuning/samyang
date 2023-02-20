@@ -1,0 +1,1 @@
+__all__ = ["vietnam", "thailand"] #공개 범위
